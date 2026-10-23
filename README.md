@@ -4,7 +4,6 @@ A responsive desktop application built with **Python** and **Tkinter** that solv
 
 ![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=flat&logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-blue?style=flat)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat)
 ![Dependencies](https://img.shields.io/badge/Dependencies-Standard--Library-orange?style=flat)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20|%20macOS%20|%20Linux-lightgrey?style=flat)
 
@@ -143,6 +142,8 @@ Feel free to open an issue or submit a pull request:
 
 ---
 
-## 📜 License
+## 👤 Author 
 
-This project is licensed under the [MIT License](LICENSE) - feel free to use and modify it for your learning and personal projects.
+Developed by Saswata (@SaswataNX05).
+
+Feel free to fork, open an issue, or submit a pull request if you have ideas for improvements!
